@@ -215,7 +215,7 @@ There is much more to add, especially in areas like Reconstruction (such as 2D t
 | 2025 | DyOrthoAlign: A Dynamic Arrangement Framework for Automatic Tooth Alignment | Computer Aided Geometric Design | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167839625000251) |
 | 2025 | Force-Driven Model for Automated Clear Aligner Staging | Bioengineering | [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11852307/) |
 | 2025 | LETA: Tooth Alignment Prediction Based on Dual-branch Latent Encoding | IEEE Transactions on Visualization and Computer Graphics (TVCG) | [Paper](https://doi.org/10.1109/TVCG.2024.3413857) |
-| 2025 | Neural Orthodontic Staging: Predicting Teeth Movements with a Transformer | IEEE Transactions on Visualization and Computer Graphics (TVCG) | [IEEE](https://www.computer.org/csdl/journal/tg/2025/09/10764725/224XOaCYIBq) • [PuPaperbMed](https://pubmed.ncbi.nlm.nih.gov/40030261/) |
+| 2025 | Neural Orthodontic Staging: Predicting Teeth Movements with a Transformer | IEEE Transactions on Visualization and Computer Graphics (TVCG) | [Paper](https://pubmed.ncbi.nlm.nih.gov/40030261/) |
 | 2025 | TAlignDiff: Automatic Tooth Alignment assisted by Diffusion-based Transformation Learning | arXiv | [Paper](https://arxiv.org/abs/2508.04565) |
 | 2025 | TEANet: Automated Tooth Extraction and Arrangement with Adaptive Graph Propagation | Computer Methods and Programs in Biomedicine | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S016926072500402X) |
 | 2025 | TeethGenerator: A Two-Stage Framework for Paired Pre/Post-Orthodontic 3D Dental Data Generation | ICCV (International Conference on Computer Vision) | [Paper](https://arxiv.org/abs/2507.04685) |
@@ -224,7 +224,7 @@ There is much more to add, especially in areas like Reconstruction (such as 2D t
 | 2024 | Predicting Outcome in Clear Aligner Treatment: A Machine Learning Analysis | Journal of Clinical Medicine | [Paper](https://www.mdpi.com/2077-0383/13/13/3672) |
 | 2024 | TAPoseNet: Teeth Alignment via Pose Estimation | MICCAI | [Paper](https://papers.miccai.org/miccai-2024/paper/2802_paper.pdf) |
 | 2024 | Transformer-Based Tooth Alignment Prediction with Occlusion and Collision Constraints | arXiv | [Paper](https://arxiv.org/abs/2410.20806) |
-| 2023 | Assessment of AI-based Remote Monitoring of Clear Aligner Therapy: A Prospective Study | American Journal of Orthodontics and Dentofacial Orthopedics (AJODO) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36997411/) |
+| 2023 | Assessment of AI-based Remote Monitoring of Clear Aligner Therapy: A Prospective Study | American Journal of Orthodontics and Dentofacial Orthopedics (AJODO) | [Paper](https://pubmed.ncbi.nlm.nih.gov/36997411/) |
 | 2023 | Automatic Tooth Arrangement with Joint Features of Point Cloud and Mesh | arXiv | [Paper](https://arxiv.org/abs/2312.15139) |
 | 2020 | iOrthoPredictor: Model-Guided Deep Prediction of Teeth Alignment | ACM Transactions on Graphics (SIGGRAPH Asia) | [Paper](https://hongbofu.people.ust.hk/doc/iOrthoPredictor_SA20.pdf) • [Code](https://github.com/Lingchen-chen/iOrthopredictor) |
 | 2020 | TANet: Towards Fully Automatic Tooth Arrangement | ECCV (European Conference on Computer Vision) | [Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600477.pdf) |
