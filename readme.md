@@ -316,7 +316,7 @@ There is much more to add, especially in areas like Reconstruction and emerging 
 | 2025 | MMOral | 20.5K images, 1.3M instances | Panoramic X-ray | [Paper](https://arxiv.org/abs/2509.09254) • [Code](https://github.com/isbrycee/OralGPT) |
 | 2025 | MMDental | 660 patients | CBCT + Medical Records | [Paper](https://www.nature.com/articles/s41597-025-05398-7) |
 | 2025 | OralGPT-Omni Benchmark | 2.8K QA pairs | Multimodal | [Code](https://github.com/isbrycee/OralGPT) |
-| 2024 | A benchmark multimodal oro-dental dataset | 8.7K checkups (50K images) | IOS, Radiographs, Text | [Paper](https://arxiv.org/abs/2511.04948) |
+| 2025 | A benchmark multimodal oro-dental dataset | 8.7K checkups (50K images) | IOS, Radiographs, Text | [Paper](https://arxiv.org/abs/2511.04948) |
 | 2024 | LMCD-OR | 232 radiographs | Panoramic X-ray | [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479543/) |
 | 2024 | Comprehensive dental dataset | 232 radiographs | Panoramic X-ray | [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11470401/) |
 | 2024 | A multimodal dental dataset | Clinical data | CBCT + EHR | [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11603170/) |
