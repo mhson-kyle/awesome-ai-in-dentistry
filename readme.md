@@ -62,9 +62,9 @@ There is much more to add, especially in areas like Reconstruction and emerging 
 | 2025 | AI in Restorative Dentistry: Current Trends and Future Prospects | BMC Oral Health | [Paper](https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-025-05989-1) |
 | 2025 | Deep Learning in Dental Image Analysis: A Systematic Review of Datasets and Models | IEEE/arXiv | [Paper](https://arxiv.org/abs/2510.20634) |
 | 2024 | Artificial intelligence in dentistry — A scoping review | J Oral Maxillofac Surg Med Pathol | [Paper](https://doi.org/10.1016/j.ajoms.2024.04.009)|
-| 2023 | Evaluation of the Diagnostic and Prognostic Accuracy of Artificial Intelligence in Endodontic Dentistry: A Comprehensive Review of Literature | Comput Math Methods Med | [Paper](https://doi.org/10.1155/2023/7049360) |
 | 2024 | Applied artificial intelligence in dentistry: emerging data modalities and modeling approaches | Frontiers in AI | [Paper](https://www.frontiersin.org/articles/10.3389/frai.2024.1427517/full) |
 | 2024 | Artificial intelligence in dentistry | British Dental Journal/FDI | [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11806333/) |
+| 2023 | Evaluation of the Diagnostic and Prognostic Accuracy of Artificial Intelligence in Endodontic Dentistry: A Comprehensive Review of Literature | Comput Math Methods Med | [Paper](https://doi.org/10.1155/2023/7049360) |
 
 ---
 
